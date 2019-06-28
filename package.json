@@ -1,0 +1,25 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint **/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austin-wood-401-advanced-javascript/lab-02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/austin-wood-401-advanced-javascript/lab-01/issues"
+  },
+  "homepage": "https://github.com/austin-wood-401-advanced-javascript/lab-02#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "faker": "^4.1.0",
+    "jest": "^24.8.0"
+  }
+}
