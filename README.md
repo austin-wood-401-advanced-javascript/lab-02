@@ -1,11 +1,11 @@
-# LAB - 01
+# LAB - 02
 
-## Lab -01
+## Lab -02
 
 ### Author: Austin Wood
 
 ### Links and Resources
-* [submission PR](https://github.com/austin-wood-401-advanced-javascript/lab-02/pull/1)
+* [submission PR](https://github.com/austin-wood-401-advanced-javascript/lab-02/pull/2)
 * [travis]([![Build Status](https://travis-ci.com/austin-wood-401-advanced-javascript/lab-02.svg?branch=master)](https://travis-ci.com/austin-wood-401-advanced-javascript/lab-02))
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
