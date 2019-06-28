@@ -24,4 +24,24 @@ List.prototype.pop = function() {
   return returnValue;
 };
 
+//Removes the first index of an array and returns it
+List.prototype.shift= function(){
+  let returnValue = this.data[0];
+  delete this.data[0];
+  return returnValue;
+};
+
+
+//adds something to the beginning of an array and returns the new length
+
+List.prototype.unshift = function(item){
+  this.length++;
+  for(let i=1; i< this.length; i++){
+    let temp = this.data[this.length-i];
+    this.data[this.length] = temp;
+  }
+  this.data[0] = item;
+  return this.length;
+};
+
 module.exports = List;
