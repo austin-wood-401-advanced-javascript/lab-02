@@ -28,11 +28,11 @@ class List {
     return returnValue;
   }
 
-  // shift(){
-  //   let returnValue = this.data[0];
-  //   delete this.data[0];
-  //   return returnValue;
-  // }
+  shift(){
+    let returnValue = this.data[0];
+    delete this.data[0];
+    return returnValue;
+  }
 
 }
 
